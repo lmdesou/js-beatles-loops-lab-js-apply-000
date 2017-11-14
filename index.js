@@ -1,3 +1,3 @@
-function theBeatlesPlay(musicians, instrument) {
+function theBeatlesPlay(musicians, instruments) {
   return "${musicians} plays ${instruments}"
 }
