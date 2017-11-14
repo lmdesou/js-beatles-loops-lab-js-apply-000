@@ -22,5 +22,5 @@ function iLoveTheBeatles(n) {
     newIloveTheBeatles.push("I love the Beatles!")
     n++
   }
-  while (n++);
+  while ();
 }
