@@ -8,9 +8,9 @@ var newTheBeatlesPlay = [];
 
 function johnLennonFacts(array) {
   var newJohnLennonFacts = [];
-for (array.length > 0) {
+for (array.length {
   let i = 0
     newJohnLennonFacts.push(array[i] + "!!!")
   }
-  return newJohnLennonFacts
+  return newJohnLennonFacts;
 }
