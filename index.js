@@ -7,5 +7,5 @@ var newTheBeatlesPlay = [];
 }
 
 function johnLennonFacts(array) {
-
+for (let i = 0; i <)
 }
