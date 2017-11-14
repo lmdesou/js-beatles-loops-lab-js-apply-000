@@ -9,6 +9,6 @@ var newTheBeatlesPlay = [];
 function johnLennonFacts(array) {
   var newJohnLennonFacts = [];
 for (let i = 0; i < array.length ; i++) {
-  
+    newJohnLennonFacts
   }
 }
