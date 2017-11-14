@@ -8,7 +8,7 @@ var newTheBeatlesPlay = [];
 
 function johnLennonFacts(array) {
   var newJohnLennonFacts = [];
-  for (array.length > 0) {
+  for (i > 0) {
     newJohnLennonFacts.push(array + "!!!")
     i++;
   }
