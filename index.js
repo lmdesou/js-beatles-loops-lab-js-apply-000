@@ -1,3 +1,3 @@
 function theBeatlesPlay(musicians, instruments) {
-  return "`${musicians} "plays" ${instruments}"
+  return `${musicians} plays ${instruments}`
 }
