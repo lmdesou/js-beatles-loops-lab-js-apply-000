@@ -20,6 +20,7 @@ function iLoveTheBeatles(n) {
   var newIloveTheBeatles = [];
   do {
     newIloveTheBeatles.push("I love the Beatles!")
+    n++
   }
   while (n++);
 }
