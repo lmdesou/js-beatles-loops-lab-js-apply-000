@@ -5,3 +5,7 @@ var newTheBeatlesPlay = [];
   }
   return newTheBeatlesPlay
 }
+
+function johnLennonFacts() {
+  
+}
