@@ -6,6 +6,6 @@ var newTheBeatlesPlay = [];
   return newTheBeatlesPlay
 }
 
-function johnLennonFacts() {
+function johnLennonFacts(facts) {
   
 }
