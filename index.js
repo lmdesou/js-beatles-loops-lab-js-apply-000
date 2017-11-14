@@ -12,4 +12,5 @@ for (array.length > 0) {
   let i = 0
     newJohnLennonFacts.push(array[i] + "!!!")
   }
+  return newJohnLennonFacts
 }
